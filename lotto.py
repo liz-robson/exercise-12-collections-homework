@@ -11,3 +11,7 @@ lotto_numbers = set()
 while len(lotto_numbers) < 6:
     lotto_numbers.add(random.randint(1, 50))
 print(lotto_numbers)
+
+'''
+Simi testing push on github - ignore
+'''
